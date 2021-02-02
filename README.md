@@ -12,6 +12,9 @@ An wxWidgets C++ Application
 sudo apt install libgtk2.0-dev             
 sudo apt install libgtk-3-dev
 ```
+```
+sudo apt search libwxgtk3.0-gtk3-dev
+```
 ## to run Application
 ```sh
 g++ *.cpp `wx-config --cxxflags --libs`
