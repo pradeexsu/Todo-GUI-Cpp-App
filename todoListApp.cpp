@@ -8,11 +8,8 @@
  **************************************************************/
 
 #include "todoListApp.h"
-
-//(*AppHeaders
 #include "todoListMain.h"
 #include <wx/image.h>
-//*)
 
 IMPLEMENT_APP(todoListApp);
 
